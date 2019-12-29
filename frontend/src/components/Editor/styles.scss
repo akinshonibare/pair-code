@@ -1,0 +1,21 @@
+.editor {
+  width: 100%;
+  height: 100%;
+}
+
+#myeditor {
+  width: 100% !important;
+}
+
+.option {
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  color: #000000;
+
+  button {
+    float: right;
+  }
+}
